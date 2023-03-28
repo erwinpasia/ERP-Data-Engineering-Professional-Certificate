@@ -14,10 +14,10 @@ This program does not require any prior data engineering, or programming experie
 
 This program is ACE® recommended—when you complete, you can earn up to 12 college credits.  
 
-# Applied Learning Project
+## Applied Learning Project
 Throughout this Professional Certificate, you will complete hands-on labs and projects to help you gain practical experience with Python, SQL, relational databases, NoSQL databases, Apache Spark, building data pipelines, managing databases, and working with data warehouses.
 
-# Projects:
+## Projects:
 
 - Design a relational database to help a coffee franchise improve operations
 
