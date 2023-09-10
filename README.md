@@ -1,9 +1,15 @@
-# [IBM Data Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/FMDQYV7QHMBP) - COMPLETED. 
-## Now, a [Trained and Certified Data or Big Data Engineer!](https://www.coursera.org/account/accomplishments/professional-cert/FMDQYV7QHMBP)
+# [IBM Data Engineering Professional Certificate](https://www.credly.com/badges/25ab9325-d010-4eb8-9add-12b221f43c55) - COMPLETED. 
+## Now, a [Trained and Certified Data or Big Data Engineer!](https://www.credly.com/badges/25ab9325-d010-4eb8-9add-12b221f43c55)
 
 <p style="text-align:center">
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/FMDQYV7QHMBP" target="_blank">
     <img src="https://github.com/erwinpasia/IBM-Data-Engineering-Professional-Certificate/blob/main/images/IDE_PC.png" alt="IBM Data Engineering Professional Certificate"  />
+    </a>
+</p>
+
+<p style="text-align:center">
+    <a href="https://www.credly.com/badges/25ab9325-d010-4eb8-9add-12b221f43c55" target="_blank">
+    <img src="https://github.com/erwinpasia/ERP-Data-Engineering-Professional-Certificate/blob/main/images/IDE_PC_SBCP.png" alt="IBM Data Engineering Professional Certificate"  />
     </a>
 </p>
 
